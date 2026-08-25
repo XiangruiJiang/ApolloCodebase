@@ -1,0 +1,38 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+*.egg
+
+# Build artifacts
+build/
+dist/
+
+# ONNX external data
+*.onnx.data
+
+# Vendored ONNX Runtime binary (copied locally, not tracked)
+deploy/thirdparty/
+
+# Logs
+*.log
+MUJOCO_LOG.TXT
+console.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Conda / venv
+.conda/
+.venv/
+venv/
+
+*.gz

@@ -1,0 +1,19 @@
+symmetry: true
+kp: 150
+kd: 1
+keyframes:
+  - delta: 0.0
+    motor_positions:
+      Head_yaw: 0.000
+      Head_pitch: 0.000
+      Shoulder_Pitch: 0.000
+      Shoulder_Roll: -89.954
+      Elbow_Pitch: 0.000
+      Elbow_Yaw: 0.000
+      Waist: 0.000
+      Hip_Pitch: 0.000
+      Hip_Roll: 0.000
+      Hip_Yaw: 0.000
+      Knee_Pitch: 0.000
+      Ankle_Pitch: 0.000
+      Ankle_Roll: 0.000
